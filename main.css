@@ -1,0 +1,28 @@
+#logo-search-bar {
+	display: block;
+	margin: auto;
+	width: 280px;
+	height: 148px;
+	position: absolute;
+  	top: 0; left: 0; bottom: 0; right: 0;
+
+}
+
+#google-logo {
+
+}
+
+#search-bar {
+
+}
+
+input[type=text] {
+	width: 260px;
+	height: 15px;
+	margin: 0 0 10px 0;
+	padding:10px;
+	border: none;
+	outline: none;
+	box-shadow: 1px 2px 10px #999999;
+	font: 14px arial, sans-serif;
+}

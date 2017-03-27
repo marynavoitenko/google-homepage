@@ -3,9 +3,9 @@
 	margin: auto;
 	width: 280px;
 	height: 148px;
-	position: absolute;
-  	top: 0; left: 0; bottom: 0; right: 0;
-
+	/*position: absolute;
+  	top: 0; left: 0; bottom: 0; right: 0;*/
+  	margin-top: 30vh;
 }
 
 #google-logo {
